@@ -1,2 +1,1 @@
-# Primerrepositorio
-repositorio de prueba del prepcourse de henry
+Prueba de como crear repositorio y clonarlo a mis escritorio
